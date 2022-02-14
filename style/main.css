@@ -128,10 +128,13 @@ button{
     display: flex;
     justify-content: space-around;
     align-items:center;
+
 }
 
 .services-predloshenia{
     width: 192px;
+
+    margin-bottom: 100px;
 
 }
 
@@ -159,3 +162,144 @@ h3{
 
     margin-left: 30px;
 }
+
+.main-meet{
+    background-color: rgba(231, 241, 248, 1);
+}
+
+.main-meet-inner{
+    width: 100%;
+    display: flex;
+    padding-top: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+.zagolovok-main-meet{
+      color: #3C4761;
+      margin-top: 20px;
+}
+
+.lines{
+    width: 87px;
+    height: 4px;
+    background-color: rgba(189, 209, 223, 1);
+    opacity: 0.7490196078431373;
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 0 auto;
+
+    margin-top: 20px;
+}
+
+.text-meet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3C4761;
+
+    margin-top: 20px;
+}
+
+.main-meet-information{
+    
+   
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+
+    margin: 0 auto;
+
+  
+}
+
+.main-meet-information h2{
+
+    text-transform: uppercase;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 20px;
+}
+
+.main-meet-information p{
+    margin-left: 20px;
+}
+
+.information{
+    width:230px;
+
+    margin-bottom: 150px;
+}
+
+.who{
+    color: #30BAE7;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(135, 135, 135, 1);
+
+    border-radius: 50%;
+
+  margin-left: 15px;
+}
+
+.circles{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 30px;
+}
+
+.kryg{
+    width:32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: rgba(189, 209, 223, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 10px;
+}
+
+.main-gotskills{
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.main-gotskills-inner{
+    width: 100%;
+    display: flex;
+    padding-top: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+.zagolovok-gotskills{
+    margin-top: 20px;
+    color: #3C4761;
+}
+
+.text-gotskills p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 20px;
+
+    color: #3C4761;
+}
+
